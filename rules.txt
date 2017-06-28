@@ -1,0 +1,15 @@
+! Removes the Chromecast button on the YouTube video player
+! 6/28/2017, 10:28:42 AM https://www.youtube.com/watch?v=4VoSeyy6KRc&list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai&index=3&spfreload=1
+www.youtube.com##.ytp-button.ytp-remote-button
+
+! Removes the Chromecast button on the Twitch video player
+! 6/28/2017, 10:31:28 AM https://www.twitch.tv/lirik
+www.twitch.tv##.js-chromecast-button.player-button--chromecast.player-button
+
+! Removes the right sidebar for better zoom viewing
+! 6/28/2017, 10:33:14 AM https://www.reddit.com/
+www.reddit.com##.side
+
+! Removes the Events panel that takes up so much space on Twitch's Overwatch directory
+! 6/28/2017, 11:01:38 AM https://www.twitch.tv/directory/game/Overwatch
+www.twitch.tv##.pd-l-2.flex-grow-0
