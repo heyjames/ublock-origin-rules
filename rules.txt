@@ -13,3 +13,8 @@ www.reddit.com##.side
 ! Removes the Events panel that takes up so much space on Twitch's Overwatch directory
 ! 6/28/2017, 11:01:38 AM https://www.twitch.tv/directory/game/Overwatch
 www.twitch.tv##.pd-l-2.flex-grow-0
+
+! Removes the top banner
+! 7/6/2017, 8:55:23 PM https://coinmarketcap.com/
+coinmarketcap.com###icobanner-wrapper
+
