@@ -21,3 +21,7 @@ coinmarketcap.com###icobanner-wrapper
 ! Shut up about TwitchCon tickets
 ! 7/10/2017, 10:46:39 AM https://www.twitch.tv
 www.twitch.tv###noty_bottomCenter_layout_container > li
+
+! Removes Twitch dimmed overlay when video is paused
+! 7/18/2017, 6:15:57 PM https://www.twitch.tv
+www.twitch.tv##.js-paused-overlay.player-play-overlay.player-overlay
